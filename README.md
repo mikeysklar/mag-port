@@ -5,6 +5,12 @@
 
 Espresso is a demanding hobby in many ways. I wasn't able to find an off-the-shelf portafilter holder with strong enough magnets so I made the mag-port. 
 
+* Modeled after a 58mm normacore portafilter
+
+* Used with a Profitec Go Espreso
+
+* Designed in FreeCAD
+
 ![Screenshot](pics/magnets.jpeg)
 
 1.18"D x 0.12"H strong neodynium disc magnets 
